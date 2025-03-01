@@ -1,4 +1,4 @@
-# Bitdefender2Bitwarden-CSV-Tool
+# Bitdefender2Bitwarden-CSV-Tool (Bitdefender to bitwarden converter)
 
 This code is only designed for accounts ("login"). If you wish to import more types of items, "modelType" (row[0]) has to change to whatever matches in the Bitwarden naming conventions.
 
